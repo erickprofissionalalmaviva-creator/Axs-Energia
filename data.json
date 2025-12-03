@@ -682764,5 +682764,19 @@
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
     "STATUS": "ATIVO"
+  },
+  {
+    "ID": 48770,
+    "DATA": "31/12/2025",
+    "CONSULTOR": "VINICIUS NASCIMENTO",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 32.25806451612903,
+    "REGIONAL": "SP1",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
   }
 ]
