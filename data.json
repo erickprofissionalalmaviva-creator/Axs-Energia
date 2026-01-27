@@ -751340,6 +751340,874 @@
   {
     "ID": 53668,
     "DATA": "01/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53669,
+    "DATA": "02/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53670,
+    "DATA": "03/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53671,
+    "DATA": "04/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53672,
+    "DATA": "05/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53673,
+    "DATA": "06/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53674,
+    "DATA": "07/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53675,
+    "DATA": "08/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53676,
+    "DATA": "09/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53677,
+    "DATA": "10/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53678,
+    "DATA": "11/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53679,
+    "DATA": "12/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53680,
+    "DATA": "13/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53681,
+    "DATA": "14/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 1,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53682,
+    "DATA": "15/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 7,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53683,
+    "DATA": "16/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 3,
+    "PROPOSTAS": 1,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53684,
+    "DATA": "17/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53685,
+    "DATA": "18/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53686,
+    "DATA": "19/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 12,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53687,
+    "DATA": "20/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 2,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53688,
+    "DATA": "21/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 10,
+    "PROPOSTAS": 1,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53689,
+    "DATA": "22/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 2,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53690,
+    "DATA": "23/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 17,
+    "PROPOSTAS": 3,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53691,
+    "DATA": "24/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53692,
+    "DATA": "25/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53693,
+    "DATA": "26/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 3,
+    "PROPOSTAS": 4,
+    "PROP. FINLZD": 1,
+    "MENSALIDADES": 897.06,
+    "TKT MÉD": 897.06,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53694,
+    "DATA": "27/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53695,
+    "DATA": "28/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53696,
+    "DATA": "29/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53697,
+    "DATA": "30/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53698,
+    "DATA": "31/01/2026",
+    "CONSULTOR": "GABRIEL FERREIRA",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53699,
+    "DATA": "01/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53700,
+    "DATA": "02/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53701,
+    "DATA": "03/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53702,
+    "DATA": "04/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53703,
+    "DATA": "05/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53704,
+    "DATA": "06/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53705,
+    "DATA": "07/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53706,
+    "DATA": "08/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53707,
+    "DATA": "09/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53708,
+    "DATA": "10/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53709,
+    "DATA": "11/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53710,
+    "DATA": "12/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53711,
+    "DATA": "13/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53712,
+    "DATA": "14/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53713,
+    "DATA": "15/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 9,
+    "PROPOSTAS": 2,
+    "PROP. FINLZD": 1,
+    "MENSALIDADES": 316.72,
+    "TKT MÉD": 316.72,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53714,
+    "DATA": "16/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 12,
+    "PROPOSTAS": 1,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53715,
+    "DATA": "17/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53716,
+    "DATA": "18/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53717,
+    "DATA": "19/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 10,
+    "PROPOSTAS": 3,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53718,
+    "DATA": "20/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53719,
+    "DATA": "21/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 16,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53720,
+    "DATA": "22/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 13,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53721,
+    "DATA": "23/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 15,
+    "PROPOSTAS": 1,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53722,
+    "DATA": "24/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53723,
+    "DATA": "25/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53724,
+    "DATA": "26/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 9,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53725,
+    "DATA": "27/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53726,
+    "DATA": "28/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53727,
+    "DATA": "29/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53728,
+    "DATA": "30/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53729,
+    "DATA": "31/01/2026",
+    "CONSULTOR": "GRAZIELLE ARCANJO",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 41.935483870967744,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 53730,
+    "DATA": "01/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
     "META": 41.935483870967744,
@@ -751352,7 +752220,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53669,
+    "ID": 53731,
     "DATA": "02/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751366,7 +752234,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53670,
+    "ID": 53732,
     "DATA": "03/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751380,7 +752248,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53671,
+    "ID": 53733,
     "DATA": "04/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751394,7 +752262,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53672,
+    "ID": 53734,
     "DATA": "05/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751408,7 +752276,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53673,
+    "ID": 53735,
     "DATA": "06/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751422,7 +752290,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53674,
+    "ID": 53736,
     "DATA": "07/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751436,7 +752304,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53675,
+    "ID": 53737,
     "DATA": "08/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751450,7 +752318,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53676,
+    "ID": 53738,
     "DATA": "09/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751464,7 +752332,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53677,
+    "ID": 53739,
     "DATA": "10/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751478,7 +752346,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53678,
+    "ID": 53740,
     "DATA": "11/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751492,7 +752360,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53679,
+    "ID": 53741,
     "DATA": "12/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751506,7 +752374,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53680,
+    "ID": 53742,
     "DATA": "13/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751520,7 +752388,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53681,
+    "ID": 53743,
     "DATA": "14/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751534,7 +752402,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53682,
+    "ID": 53744,
     "DATA": "15/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751548,7 +752416,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53683,
+    "ID": 53745,
     "DATA": "16/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751562,7 +752430,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53684,
+    "ID": 53746,
     "DATA": "17/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751576,7 +752444,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53685,
+    "ID": 53747,
     "DATA": "18/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751590,7 +752458,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53686,
+    "ID": 53748,
     "DATA": "19/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751604,7 +752472,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53687,
+    "ID": 53749,
     "DATA": "20/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751618,7 +752486,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53688,
+    "ID": 53750,
     "DATA": "21/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751632,7 +752500,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53689,
+    "ID": 53751,
     "DATA": "22/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751646,7 +752514,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53690,
+    "ID": 53752,
     "DATA": "23/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751660,7 +752528,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53691,
+    "ID": 53753,
     "DATA": "24/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751674,7 +752542,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53692,
+    "ID": 53754,
     "DATA": "25/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751688,7 +752556,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53693,
+    "ID": 53755,
     "DATA": "26/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751702,7 +752570,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53694,
+    "ID": 53756,
     "DATA": "27/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751716,7 +752584,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53695,
+    "ID": 53757,
     "DATA": "28/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751730,7 +752598,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53696,
+    "ID": 53758,
     "DATA": "29/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751744,7 +752612,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53697,
+    "ID": 53759,
     "DATA": "30/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751758,7 +752626,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53698,
+    "ID": 53760,
     "DATA": "31/01/2026",
     "CONSULTOR": "JOSE APARECIDO",
     "SUPERVISOR": "MARLEY DAYANE",
@@ -751772,7 +752640,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53699,
+    "ID": 53761,
     "DATA": "01/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751786,7 +752654,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53700,
+    "ID": 53762,
     "DATA": "02/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751800,7 +752668,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53701,
+    "ID": 53763,
     "DATA": "03/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751814,7 +752682,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53702,
+    "ID": 53764,
     "DATA": "04/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751828,7 +752696,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53703,
+    "ID": 53765,
     "DATA": "05/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751842,7 +752710,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53704,
+    "ID": 53766,
     "DATA": "06/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751856,7 +752724,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53705,
+    "ID": 53767,
     "DATA": "07/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751870,7 +752738,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53706,
+    "ID": 53768,
     "DATA": "08/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751884,7 +752752,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53707,
+    "ID": 53769,
     "DATA": "09/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751898,7 +752766,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53708,
+    "ID": 53770,
     "DATA": "10/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751912,7 +752780,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53709,
+    "ID": 53771,
     "DATA": "11/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751926,7 +752794,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53710,
+    "ID": 53772,
     "DATA": "12/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751940,7 +752808,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53711,
+    "ID": 53773,
     "DATA": "13/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751954,7 +752822,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53712,
+    "ID": 53774,
     "DATA": "14/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751968,7 +752836,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53713,
+    "ID": 53775,
     "DATA": "15/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751982,7 +752850,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53714,
+    "ID": 53776,
     "DATA": "16/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -751996,7 +752864,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53715,
+    "ID": 53777,
     "DATA": "17/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752010,7 +752878,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53716,
+    "ID": 53778,
     "DATA": "18/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752024,7 +752892,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53717,
+    "ID": 53779,
     "DATA": "19/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752038,7 +752906,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53718,
+    "ID": 53780,
     "DATA": "20/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752052,7 +752920,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53719,
+    "ID": 53781,
     "DATA": "21/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752066,7 +752934,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53720,
+    "ID": 53782,
     "DATA": "22/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752080,7 +752948,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53721,
+    "ID": 53783,
     "DATA": "23/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752094,7 +752962,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53722,
+    "ID": 53784,
     "DATA": "24/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752108,7 +752976,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53723,
+    "ID": 53785,
     "DATA": "25/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752122,7 +752990,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53724,
+    "ID": 53786,
     "DATA": "26/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752136,7 +753004,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53725,
+    "ID": 53787,
     "DATA": "27/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752150,7 +753018,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53726,
+    "ID": 53788,
     "DATA": "28/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752164,7 +753032,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53727,
+    "ID": 53789,
     "DATA": "29/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752178,7 +753046,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53728,
+    "ID": 53790,
     "DATA": "30/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
@@ -752192,7 +753060,7 @@
     "STATUS": "ATIVO"
   },
   {
-    "ID": 53729,
+    "ID": 53791,
     "DATA": "31/01/2026",
     "CONSULTOR": "PEDRO PEREIRA",
     "SUPERVISOR": "JOYCE ADRIANE",
