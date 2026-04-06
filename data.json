@@ -853382,5 +853382,19 @@
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
     "STATUS": "ATIVO"
+  },
+  {
+    "ID": 60957,
+    "DATA": "30/04/2025",
+    "CONSULTOR": "FERNANDO SANTOS",
+    "SUPERVISOR": "ADRIANA MENDES",
+    "META": 166.66666666666666,
+    "REGIONAL": "MG-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
   }
 ]
