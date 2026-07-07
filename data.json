@@ -898219,7 +898219,7 @@
     "META": 123.31641191066998,
     "REGIONAL": "GO",
     "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -898652,7 +898652,7 @@
     "SUPERVISOR": "MARCOS CALIPO",
     "META": 146.34723076923078,
     "REGIONAL": "SP",
-    "VISITAS": 0,
+    "VISITAS": 6,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -899520,8 +899520,8 @@
     "SUPERVISOR": "MARIA FERNANDA",
     "META": 80.64516129032258,
     "REGIONAL": "MG",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 14,
+    "PROPOSTAS": 3,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -901256,8 +901256,8 @@
     "SUPERVISOR": "MARCOS CALIPO",
     "META": 307.6805310173697,
     "REGIONAL": "SP",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 16,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -901691,7 +901691,7 @@
     "META": 247.4092307692308,
     "REGIONAL": "MG-AP",
     "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -902558,8 +902558,8 @@
     "SUPERVISOR": "MARLEY DAYANE",
     "META": 80.64516129032258,
     "REGIONAL": "MG",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 16,
+    "PROPOSTAS": 2,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -903385,7 +903385,7 @@
     "META": 80.64516129032258,
     "REGIONAL": "GO",
     "VISITAS": 2,
-    "PROPOSTAS": 5,
+    "PROPOSTAS": 4,
     "PROP. FINLZD": 1,
     "MENSALIDADES": 780.76,
     "TKT MÉD": 780.76,
@@ -903426,11 +903426,11 @@
     "SUPERVISOR": "LUCAS VINICIUS",
     "META": 80.64516129032258,
     "REGIONAL": "GO",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
-    "PROP. FINLZD": 0,
-    "MENSALIDADES": 0,
-    "TKT MÉD": 0,
+    "VISITAS": 11,
+    "PROPOSTAS": 1,
+    "PROP. FINLZD": 1,
+    "MENSALIDADES": 769.46,
+    "TKT MÉD": 769.46,
     "STATUS": "ATIVO"
   },
   {
@@ -903860,7 +903860,7 @@
     "SUPERVISOR": "MARCOS CALIPO",
     "META": 105.07267493796523,
     "REGIONAL": "SP",
-    "VISITAS": 0,
+    "VISITAS": 16,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -904294,7 +904294,7 @@
     "SUPERVISOR": "MARCOS CALIPO",
     "META": 141.94001985111663,
     "REGIONAL": "SP",
-    "VISITAS": 0,
+    "VISITAS": 15,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -907697,7 +907697,7 @@
     "META": 131.16430107526884,
     "REGIONAL": "MG",
     "VISITAS": 18,
-    "PROPOSTAS": 2,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -907766,11 +907766,11 @@
     "SUPERVISOR": "MARIA FERNANDA",
     "META": 131.16430107526884,
     "REGIONAL": "MG",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
-    "PROP. FINLZD": 0,
-    "MENSALIDADES": 0,
-    "TKT MÉD": 0,
+    "VISITAS": 17,
+    "PROPOSTAS": 1,
+    "PROP. FINLZD": 1,
+    "MENSALIDADES": 946.26,
+    "TKT MÉD": 946.26,
     "STATUS": "ATIVO"
   },
   {
@@ -908200,7 +908200,7 @@
     "SUPERVISOR": "MARIA FERNANDA",
     "META": 197.99339784946235,
     "REGIONAL": "MG",
-    "VISITAS": 0,
+    "VISITAS": 3,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -909069,7 +909069,7 @@
     "META": 161.29032258064515,
     "REGIONAL": "MG-AP",
     "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "PROPOSTAS": 2,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -909502,8 +909502,8 @@
     "SUPERVISOR": "ANA CAROLINA",
     "META": 144.41588709677418,
     "REGIONAL": "GO",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 28,
+    "PROPOSTAS": 2,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -910804,7 +910804,7 @@
     "SUPERVISOR": "ANA CAROLINA",
     "META": 80.64516129032258,
     "REGIONAL": "GO",
-    "VISITAS": 0,
+    "VISITAS": 22,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -911238,7 +911238,7 @@
     "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
     "REGIONAL": "MT-AP",
-    "VISITAS": 0,
+    "VISITAS": 2,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -911672,7 +911672,7 @@
     "SUPERVISOR": "ANA CAROLINA",
     "META": 80.64516129032258,
     "REGIONAL": "GO",
-    "VISITAS": 0,
+    "VISITAS": 23,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -912106,8 +912106,8 @@
     "SUPERVISOR": "MARCOS CALIPO",
     "META": 269.4119501466275,
     "REGIONAL": "SP",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 14,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -912974,7 +912974,7 @@
     "SUPERVISOR": "ANA CAROLINA",
     "META": 80.64516129032258,
     "REGIONAL": "GO",
-    "VISITAS": 0,
+    "VISITAS": 25,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -913408,7 +913408,7 @@
     "SUPERVISOR": "ANA CAROLINA",
     "META": 80.64516129032258,
     "REGIONAL": "GO",
-    "VISITAS": 0,
+    "VISITAS": 27,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -913842,7 +913842,7 @@
     "SUPERVISOR": "MARIA FERNANDA",
     "META": 80.64516129032258,
     "REGIONAL": "MG",
-    "VISITAS": 0,
+    "VISITAS": 9,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -914276,7 +914276,7 @@
     "SUPERVISOR": "CLAUDIO MORAES",
     "META": 161.29032258064515,
     "REGIONAL": "MG-AP",
-    "VISITAS": 0,
+    "VISITAS": 1,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -914710,8 +914710,8 @@
     "SUPERVISOR": "JOYCE ADRIANE",
     "META": 312.53991039426523,
     "REGIONAL": "MT-AP",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 7,
+    "PROPOSTAS": 2,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -915079,7 +915079,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65364,
@@ -915093,7 +915093,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65365,
@@ -915107,7 +915107,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65366,
@@ -915121,7 +915121,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65367,
@@ -915135,7 +915135,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65368,
@@ -915144,12 +915144,12 @@
     "SUPERVISOR": "MARCOS CALIPO",
     "META": 80.64516129032258,
     "REGIONAL": "SP",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 9,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65369,
@@ -915163,7 +915163,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65370,
@@ -915177,7 +915177,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65371,
@@ -915191,7 +915191,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65372,
@@ -915205,7 +915205,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65373,
@@ -915219,7 +915219,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65374,
@@ -915233,7 +915233,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65375,
@@ -915247,7 +915247,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65376,
@@ -915261,7 +915261,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65377,
@@ -915275,7 +915275,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65378,
@@ -915289,7 +915289,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65379,
@@ -915303,7 +915303,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65380,
@@ -915317,7 +915317,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65381,
@@ -915331,7 +915331,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65382,
@@ -915345,7 +915345,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65383,
@@ -915359,7 +915359,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65384,
@@ -915373,7 +915373,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65385,
@@ -915387,7 +915387,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65386,
@@ -915401,7 +915401,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65387,
@@ -915415,7 +915415,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65388,
@@ -915429,7 +915429,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65389,
@@ -915443,7 +915443,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65390,
@@ -915457,7 +915457,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65391,
@@ -915471,7 +915471,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65392,
@@ -915485,7 +915485,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65393,
@@ -915499,7 +915499,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "AFAST"
+    "STATUS": "ATIVO"
   },
   {
     "ID": 65394,
@@ -917315,7 +917315,7 @@
     "META": 161.29032258064515,
     "REGIONAL": "MG-AP",
     "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -918616,8 +918616,8 @@
     "SUPERVISOR": "MARIA FERNANDA",
     "META": 80.64516129032258,
     "REGIONAL": "MG",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 37,
+    "PROPOSTAS": 3,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -918985,7 +918985,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65643,
@@ -918999,7 +918999,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65644,
@@ -919013,7 +919013,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65645,
@@ -919027,7 +919027,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65646,
@@ -919041,7 +919041,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65647,
@@ -919055,7 +919055,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65648,
@@ -919069,7 +919069,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65649,
@@ -919083,7 +919083,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65650,
@@ -919097,7 +919097,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65651,
@@ -919111,7 +919111,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65652,
@@ -919125,7 +919125,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65653,
@@ -919139,7 +919139,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65654,
@@ -919153,7 +919153,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65655,
@@ -919167,7 +919167,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65656,
@@ -919181,7 +919181,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65657,
@@ -919195,7 +919195,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65658,
@@ -919209,7 +919209,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65659,
@@ -919223,7 +919223,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65660,
@@ -919237,7 +919237,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65661,
@@ -919251,7 +919251,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65662,
@@ -919265,7 +919265,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65663,
@@ -919279,7 +919279,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65664,
@@ -919293,7 +919293,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65665,
@@ -919307,7 +919307,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65666,
@@ -919321,7 +919321,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65667,
@@ -919335,7 +919335,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65668,
@@ -919349,7 +919349,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65669,
@@ -919363,7 +919363,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65670,
@@ -919377,7 +919377,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65671,
@@ -919391,7 +919391,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65672,
@@ -919405,15 +919405,15 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "DESLIG"
   },
   {
     "ID": 65673,
     "DATA": "01/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919425,9 +919425,9 @@
     "ID": 65674,
     "DATA": "02/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 18,
     "PROPOSTAS": 2,
     "PROP. FINLZD": 0,
@@ -919439,9 +919439,9 @@
     "ID": 65675,
     "DATA": "03/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 15,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919453,9 +919453,9 @@
     "ID": 65676,
     "DATA": "04/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919467,9 +919467,9 @@
     "ID": 65677,
     "DATA": "05/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919481,10 +919481,10 @@
     "ID": 65678,
     "DATA": "06/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
-    "VISITAS": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 15,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -919495,9 +919495,9 @@
     "ID": 65679,
     "DATA": "07/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919509,9 +919509,9 @@
     "ID": 65680,
     "DATA": "08/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919523,9 +919523,9 @@
     "ID": 65681,
     "DATA": "09/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919537,9 +919537,9 @@
     "ID": 65682,
     "DATA": "10/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919551,9 +919551,9 @@
     "ID": 65683,
     "DATA": "11/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919565,9 +919565,9 @@
     "ID": 65684,
     "DATA": "12/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919579,9 +919579,9 @@
     "ID": 65685,
     "DATA": "13/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919593,9 +919593,9 @@
     "ID": 65686,
     "DATA": "14/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919607,9 +919607,9 @@
     "ID": 65687,
     "DATA": "15/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919621,9 +919621,9 @@
     "ID": 65688,
     "DATA": "16/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919635,9 +919635,9 @@
     "ID": 65689,
     "DATA": "17/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919649,9 +919649,9 @@
     "ID": 65690,
     "DATA": "18/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919663,9 +919663,9 @@
     "ID": 65691,
     "DATA": "19/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919677,9 +919677,9 @@
     "ID": 65692,
     "DATA": "20/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919691,9 +919691,9 @@
     "ID": 65693,
     "DATA": "21/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919705,9 +919705,9 @@
     "ID": 65694,
     "DATA": "22/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919719,9 +919719,9 @@
     "ID": 65695,
     "DATA": "23/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919733,9 +919733,9 @@
     "ID": 65696,
     "DATA": "24/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919747,9 +919747,9 @@
     "ID": 65697,
     "DATA": "25/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919761,9 +919761,9 @@
     "ID": 65698,
     "DATA": "26/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919775,9 +919775,9 @@
     "ID": 65699,
     "DATA": "27/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919789,9 +919789,9 @@
     "ID": 65700,
     "DATA": "28/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919803,9 +919803,9 @@
     "ID": 65701,
     "DATA": "29/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919817,9 +919817,9 @@
     "ID": 65702,
     "DATA": "30/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
@@ -919831,9 +919831,443 @@
     "ID": 65703,
     "DATA": "31/07/2026",
     "CONSULTOR": "WILLIAN CUSTODIO",
-    "SUPERVISOR": "CLAUDIO MORAES",
+    "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
-    "REGIONAL": "MG-AP",
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65704,
+    "DATA": "01/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65705,
+    "DATA": "02/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65706,
+    "DATA": "03/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65707,
+    "DATA": "04/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65708,
+    "DATA": "05/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65709,
+    "DATA": "06/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65710,
+    "DATA": "07/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65711,
+    "DATA": "08/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65712,
+    "DATA": "09/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65713,
+    "DATA": "10/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65714,
+    "DATA": "11/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65715,
+    "DATA": "12/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65716,
+    "DATA": "13/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65717,
+    "DATA": "14/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65718,
+    "DATA": "15/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65719,
+    "DATA": "16/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65720,
+    "DATA": "17/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65721,
+    "DATA": "18/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65722,
+    "DATA": "19/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65723,
+    "DATA": "20/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65724,
+    "DATA": "21/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65725,
+    "DATA": "22/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65726,
+    "DATA": "23/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65727,
+    "DATA": "24/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65728,
+    "DATA": "25/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65729,
+    "DATA": "26/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65730,
+    "DATA": "27/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65731,
+    "DATA": "28/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65732,
+    "DATA": "29/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65733,
+    "DATA": "30/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
+    "VISITAS": 0,
+    "PROPOSTAS": 0,
+    "PROP. FINLZD": 0,
+    "MENSALIDADES": 0,
+    "TKT MÉD": 0,
+    "STATUS": "ATIVO"
+  },
+  {
+    "ID": 65734,
+    "DATA": "31/07/2026",
+    "CONSULTOR": "ARTUR TOME",
+    "SUPERVISOR": "JOYCE ADRIANE",
+    "META": 0,
+    "REGIONAL": "MT-AP",
     "VISITAS": 0,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
