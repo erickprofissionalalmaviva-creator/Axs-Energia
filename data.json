@@ -898289,7 +898289,7 @@
     "META": 123.31641191066998,
     "REGIONAL": "GO",
     "VISITAS": 0,
-    "PROPOSTAS": 1,
+    "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -898317,7 +898317,7 @@
     "META": 123.31641191066998,
     "REGIONAL": "GO",
     "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -899618,8 +899618,8 @@
     "SUPERVISOR": "MARIA FERNANDA",
     "META": 80.64516129032258,
     "REGIONAL": "MG",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 24,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -901354,7 +901354,7 @@
     "SUPERVISOR": "MARCOS CALIPO",
     "META": 307.6805310173697,
     "REGIONAL": "SP",
-    "VISITAS": 0,
+    "VISITAS": 22,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -901635,7 +901635,7 @@
     "META": 247.4092307692308,
     "REGIONAL": "MG-AP",
     "VISITAS": 6,
-    "PROPOSTAS": 1,
+    "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -901788,8 +901788,8 @@
     "SUPERVISOR": "CLAUDIO MORAES",
     "META": 247.4092307692308,
     "REGIONAL": "MG-AP",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 10,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -902656,8 +902656,8 @@
     "SUPERVISOR": "MARLEY DAYANE",
     "META": 80.64516129032258,
     "REGIONAL": "MG",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 19,
+    "PROPOSTAS": 2,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -902927,7 +902927,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64496,
@@ -902941,7 +902941,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64497,
@@ -902955,7 +902955,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64498,
@@ -902969,7 +902969,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64499,
@@ -902983,7 +902983,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64500,
@@ -902997,7 +902997,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64501,
@@ -903011,7 +903011,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64502,
@@ -903025,7 +903025,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64503,
@@ -903039,7 +903039,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64504,
@@ -903053,7 +903053,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64505,
@@ -903067,7 +903067,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64506,
@@ -903081,7 +903081,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64507,
@@ -903095,7 +903095,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64508,
@@ -903109,7 +903109,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64509,
@@ -903123,7 +903123,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64510,
@@ -903137,7 +903137,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64511,
@@ -903151,7 +903151,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64512,
@@ -903165,7 +903165,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64513,
@@ -903179,7 +903179,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64514,
@@ -903193,7 +903193,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64515,
@@ -903207,7 +903207,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64516,
@@ -903221,7 +903221,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64517,
@@ -903235,7 +903235,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64518,
@@ -903249,7 +903249,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64519,
@@ -903263,7 +903263,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64520,
@@ -903277,7 +903277,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64521,
@@ -903291,7 +903291,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64522,
@@ -903305,7 +903305,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64523,
@@ -903319,7 +903319,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64524,
@@ -903333,7 +903333,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64525,
@@ -903347,7 +903347,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64526,
@@ -903524,7 +903524,7 @@
     "SUPERVISOR": "LUCAS VINICIUS",
     "META": 80.64516129032258,
     "REGIONAL": "GO",
-    "VISITAS": 0,
+    "VISITAS": 6,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -903958,8 +903958,8 @@
     "SUPERVISOR": "MARCOS CALIPO",
     "META": 105.07267493796523,
     "REGIONAL": "SP",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 19,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -904392,7 +904392,7 @@
     "SUPERVISOR": "MARCOS CALIPO",
     "META": 141.94001985111663,
     "REGIONAL": "SP",
-    "VISITAS": 0,
+    "VISITAS": 7,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -906399,7 +906399,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64744,
@@ -906413,7 +906413,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64745,
@@ -906427,7 +906427,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64746,
@@ -906441,7 +906441,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64747,
@@ -906455,7 +906455,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64748,
@@ -906469,7 +906469,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64749,
@@ -906483,7 +906483,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64750,
@@ -906497,7 +906497,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64751,
@@ -906511,7 +906511,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64752,
@@ -906525,7 +906525,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64753,
@@ -906539,7 +906539,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64754,
@@ -906553,7 +906553,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64755,
@@ -906567,7 +906567,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64756,
@@ -906581,7 +906581,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64757,
@@ -906595,7 +906595,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64758,
@@ -906609,7 +906609,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64759,
@@ -906623,7 +906623,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64760,
@@ -906637,7 +906637,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64761,
@@ -906651,7 +906651,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64762,
@@ -906665,7 +906665,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64763,
@@ -906679,7 +906679,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64764,
@@ -906693,7 +906693,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64765,
@@ -906707,7 +906707,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64766,
@@ -906721,7 +906721,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64767,
@@ -906735,7 +906735,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64768,
@@ -906749,7 +906749,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64769,
@@ -906763,7 +906763,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64770,
@@ -906777,7 +906777,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64771,
@@ -906791,7 +906791,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64772,
@@ -906805,7 +906805,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64773,
@@ -906819,7 +906819,7 @@
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
-    "STATUS": "ATIVO"
+    "STATUS": "AFAST"
   },
   {
     "ID": 64774,
@@ -907430,7 +907430,7 @@
     "SUPERVISOR": "LUCAS VINICIUS",
     "META": 361.5823396774194,
     "REGIONAL": "GO",
-    "VISITAS": 0,
+    "VISITAS": 25,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -907823,7 +907823,7 @@
     "META": 131.16430107526884,
     "REGIONAL": "MG",
     "VISITAS": 20,
-    "PROPOSTAS": 4,
+    "PROPOSTAS": 3,
     "PROP. FINLZD": 1,
     "MENSALIDADES": 762.62,
     "TKT MÉD": 762.62,
@@ -907864,11 +907864,11 @@
     "SUPERVISOR": "MARIA FERNANDA",
     "META": 131.16430107526884,
     "REGIONAL": "MG",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
-    "PROP. FINLZD": 0,
-    "MENSALIDADES": 0,
-    "TKT MÉD": 0,
+    "VISITAS": 20,
+    "PROPOSTAS": 1,
+    "PROP. FINLZD": 1,
+    "MENSALIDADES": 508.96,
+    "TKT MÉD": 508.96,
     "STATUS": "ATIVO"
   },
   {
@@ -908256,7 +908256,7 @@
     "SUPERVISOR": "MARIA FERNANDA",
     "META": 197.99339784946235,
     "REGIONAL": "MG",
-    "VISITAS": 3,
+    "VISITAS": 4,
     "PROPOSTAS": 4,
     "PROP. FINLZD": 3,
     "MENSALIDADES": 2422.3900000000003,
@@ -908298,7 +908298,7 @@
     "SUPERVISOR": "MARIA FERNANDA",
     "META": 197.99339784946235,
     "REGIONAL": "MG",
-    "VISITAS": 0,
+    "VISITAS": 4,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -909600,8 +909600,8 @@
     "SUPERVISOR": "ANA CAROLINA",
     "META": 144.41588709677418,
     "REGIONAL": "GO",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 23,
+    "PROPOSTAS": 2,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -910469,7 +910469,7 @@
     "META": 161.29032258064515,
     "REGIONAL": "MT-AP",
     "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "PROPOSTAS": 11,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -910902,8 +910902,8 @@
     "SUPERVISOR": "ANA CAROLINA",
     "META": 80.64516129032258,
     "REGIONAL": "GO",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 11,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -911337,7 +911337,7 @@
     "META": 161.29032258064515,
     "REGIONAL": "MT-AP",
     "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "PROPOSTAS": 2,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -911770,8 +911770,8 @@
     "SUPERVISOR": "ANA CAROLINA",
     "META": 80.64516129032258,
     "REGIONAL": "GO",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 8,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -912204,7 +912204,7 @@
     "SUPERVISOR": "MARCOS CALIPO",
     "META": 269.4119501466275,
     "REGIONAL": "SP",
-    "VISITAS": 0,
+    "VISITAS": 23,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -913506,7 +913506,7 @@
     "SUPERVISOR": "ANA CAROLINA",
     "META": 80.64516129032258,
     "REGIONAL": "GO",
-    "VISITAS": 0,
+    "VISITAS": 4,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -914808,8 +914808,8 @@
     "SUPERVISOR": "JOYCE ADRIANE",
     "META": 312.53991039426523,
     "REGIONAL": "MT-AP",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 5,
+    "PROPOSTAS": 2,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -915242,7 +915242,7 @@
     "SUPERVISOR": "MARCOS CALIPO",
     "META": 80.64516129032258,
     "REGIONAL": "SP",
-    "VISITAS": 0,
+    "VISITAS": 21,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -917847,7 +917847,7 @@
     "META": 161.29032258064515,
     "REGIONAL": "MG-AP",
     "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -918714,8 +918714,8 @@
     "SUPERVISOR": "MARIA FERNANDA",
     "META": 80.64516129032258,
     "REGIONAL": "MG",
-    "VISITAS": 0,
-    "PROPOSTAS": 0,
+    "VISITAS": 16,
+    "PROPOSTAS": 1,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -919582,7 +919582,7 @@
     "SUPERVISOR": "JOYCE ADRIANE",
     "META": 161.29032258064515,
     "REGIONAL": "MT-AP",
-    "VISITAS": 0,
+    "VISITAS": 3,
     "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
@@ -919975,7 +919975,7 @@
     "META": 0,
     "REGIONAL": "MT-AP",
     "VISITAS": 4,
-    "PROPOSTAS": 1,
+    "PROPOSTAS": 0,
     "PROP. FINLZD": 0,
     "MENSALIDADES": 0,
     "TKT MÉD": 0,
@@ -920017,10 +920017,10 @@
     "META": 0,
     "REGIONAL": "MT-AP",
     "VISITAS": 0,
-    "PROPOSTAS": 0,
-    "PROP. FINLZD": 0,
-    "MENSALIDADES": 0,
-    "TKT MÉD": 0,
+    "PROPOSTAS": 1,
+    "PROP. FINLZD": 1,
+    "MENSALIDADES": 526.6,
+    "TKT MÉD": 526.6,
     "STATUS": "ATIVO"
   },
   {
